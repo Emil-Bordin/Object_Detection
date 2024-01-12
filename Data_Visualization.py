@@ -1,5 +1,5 @@
-from EmilBordin969367_Data_Prediction_Assignment_5 import ArthropodDatasetPredict
-from EmilBordin969367_Dataset_Class_Assignment_5 import transform
+from Data_Prediction import ArthropodDatasetPredict
+from Dataset_Class import transform
 import torchvision.transforms as transforms
 import matplotlib.pyplot as plt
 import numpy as np

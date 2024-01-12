@@ -3,8 +3,8 @@ from pytorch_lightning import loggers as pl_loggers
 from pytorch_lightning.callbacks import EarlyStopping
 import torch
 
-from EmilBordin969367_Data_Loading_Assignment_5 import DataLoading
-from EmilBordin969367_Model_Initialization_Assignment_5 import FasterRCNN
+from Data_Loading import DataLoading
+from Model_Initialization import FasterRCNN
 
 if __name__ == "__main__":
     model = FasterRCNN(8)

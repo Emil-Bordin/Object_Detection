@@ -1,7 +1,7 @@
 # Object Detection
 
 ## Einleitung
-Dieses Repository enthält mehrere Python-Skripte, die zusammen ein umfassendes Projekt für Datenverarbeitung, Modellinitialisierung, Vorhersage und Visualisierung bilden. Jedes Skript hat eine spezifische Rolle im Gesamtkontext des Projekts.
+Dieses Repository enthält mehrere Python-Skripte, die zusammen ein umfassendes Projekt für Datenverarbeitung, Modellinitialisierung, Vorhersage und Visualisierung bilden. Das Ziel ist es, Gliederfüßer in einem Bild zu lokalisieren und zu identifizieren.
 
 ## Dateistruktur
 - `Data_Loading.py`: Dieses Skript ist verantwortlich für das Laden der Daten. Es enthält Funktionen, um die benötigten Datensätze für das Projekt zu importieren und vorzubereiten.
